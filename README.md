@@ -17,3 +17,7 @@ Female JS program monthly meetup & sharing session :
  4. assertiveness skills
  5. presenting a positive image
  6. building networks
+
+Community development :
+ 1. Social building
+ 2.
