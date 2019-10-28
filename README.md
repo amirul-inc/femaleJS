@@ -20,4 +20,6 @@ Female JS program monthly meetup & sharing session :
 
 Community development :
  1. Social building
- 2.
+ 2. Tech learning
+ 3. Sharing session about JS ecosystem
+ 4. Insipre women in tech ecosystem
